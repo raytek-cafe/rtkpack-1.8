@@ -1,0 +1,40 @@
+{
+  "game.player.hurt.fall.big": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      "damage/fallbig",
+      "damage/fallbig2"
+    ]
+  },
+  "game.neutral.hurt.fall.big": {
+    "category": "neutral",
+    "replace": true,
+    "sounds": [
+      "damage/fallbig",
+      "damage/fallbig2"
+    ]
+  },
+  "game.hostile.hurt.fall.big": {
+    "category": "hostile",
+    "replace": true,
+    "sounds": [
+      "damage/fallbig",
+      "damage/fallbig2"
+    ]
+  },
+  "game.player.hurt": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      "damage/hurtclassic"
+    ]
+  },
+  "game.player.die": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      "damage/hurtclassic"
+    ]
+  }
+}
